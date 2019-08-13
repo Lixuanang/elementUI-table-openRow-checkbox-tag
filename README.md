@@ -1,2 +1,18 @@
 # elementUI-table-openRow-checkbox-tag
-elementUI-table-openRow+checkbox+tag
+
+## 需求
+
+提交勾选调度的 ui
+
+## 具体需求
+
+- 表格为车队列表，每个车队下有调度(角色)若干
+- 表格筛选/分页(后台做的时间戳分页,用的加载更多)
+- 每行车队信息可展开,如车队下有调度,显示调度姓名及手机号
+- 调度可勾选/取消勾选，(因为有分页，所以勾选的调度在表格上方显示)
+- 筛选/加载更多后，列表中勾选的调度要求依然显示勾选状态
+
+
+## 演示
+
+![](https://cdn.nlark.com/yuque/0/2019/gif/378417/1565694432353-assets/web-upload/489fe9d0-4b02-42a5-98be-cb76d3e27a52.gif '演示')
